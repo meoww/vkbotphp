@@ -1,0 +1,379 @@
+#EXTM3U url-tvg"http://cache.lanet.tv/epg/xmltv_uk.xml.gz"
+#EXTINF:-1 tvg-id="9002" tvg-name="1+1 " group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9002.png", 1+1 
+https://play.lanet.tv/index/9002.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9007" tvg-name="СТБ" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9007.png", СТБ
+https://play.lanet.tv/index/9007.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9004" tvg-name="ICTV" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9004.png", ICTV
+https://play.lanet.tv/index/9004.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9006" tvg-name="Новий канал" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9006.png", Новий канал
+https://play.lanet.tv/index/9006.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9008" tvg-name="Україна" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9008.png", Україна
+https://play.lanet.tv/index/9008.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9005" tvg-name="Інтер" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9005.png", Інтер
+https://play.lanet.tv/index/9005.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9016" tvg-name="2+2" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9016.png", 2+2
+https://play.lanet.tv/index/9016.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9010" tvg-name="ТЕТ" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9010.png", ТЕТ
+https://play.lanet.tv/index/9010.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9012" tvg-name="К1" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9012.png", К1
+https://play.lanet.tv/index/9012.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9020" tvg-name="К2" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9020.png", К2
+https://play.lanet.tv/index/9020.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9024" tvg-name="НЛО TV" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9024.png", НЛО TV
+https://play.lanet.tv/index/9024.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9011" tvg-name="Прямий" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9011.png", Прямий
+https://play.lanet.tv/index/9011.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9053" tvg-name="112 Україна" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9053.png", 112 Україна
+https://play.lanet.tv/index/9053.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9035" tvg-name="24 Канал" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9035.png", 24 Канал
+https://play.lanet.tv/index/9035.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9060" tvg-name="Еспресо" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9060.png", Еспресо
+https://play.lanet.tv/index/9060.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9014" tvg-name="5 канал" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9014.png", 5 канал
+https://play.lanet.tv/index/9014.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9065" tvg-name="УНІАН" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9065.png", УНІАН
+https://play.lanet.tv/index/9065.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9001" tvg-name="UA: Перший" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9001.png", UA: Перший
+https://play.lanet.tv/index/9001.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9066" tvg-name="UA: Культура" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9066.png", UA: Культура
+https://play.lanet.tv/index/9066.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9057" tvg-name="ATR" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9057.png", ATR
+https://play.lanet.tv/index/9057.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9018" tvg-name="Рада" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9018.png", Рада
+https://play.lanet.tv/index/9018.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9070" tvg-name="EuroNews" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9070.png", EuroNews
+https://play.lanet.tv/index/9070.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9111" tvg-name="EuroNews HD" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9111.png", EuroNews HD
+https://play.lanet.tv/index/9111.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9134" tvg-name="BBC World News" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9134.png", BBC World News
+https://play.lanet.tv/index/9134.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9078" tvg-name="Deutsche Welle" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9078.png", Deutsche Welle
+https://play.lanet.tv/index/9078.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9081" tvg-name="France 24" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9081.png", France 24
+https://play.lanet.tv/index/9081.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9074" tvg-name="TV1000 Action" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9074.png", TV1000 Action
+https://play.lanet.tv/index/9074.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9069" tvg-name="TV1000" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9069.png", TV1000
+https://play.lanet.tv/index/9069.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9142" tvg-name="TV1000 World Kino" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9142.png", TV1000 World Kino
+https://play.lanet.tv/index/9142.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9093" tvg-name="VIP Comedy" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9093.png", VIP Comedy
+https://play.lanet.tv/index/9093.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9199" tvg-name="Epic Drama" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9199.png", Epic Drama
+https://play.lanet.tv/index/9199.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9100" tvg-name="FOX" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9100.png", FOX
+https://play.lanet.tv/index/9100.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9101" tvg-name="FOX Life" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9101.png", FOX Life
+https://play.lanet.tv/index/9101.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9124" tvg-name="Sony Turbo" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9124.png", Sony Turbo
+https://play.lanet.tv/index/9124.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9139" tvg-name="Sony Sci-Fi" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9139.png", Sony Sci-Fi
+https://play.lanet.tv/index/9139.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9138" tvg-name="Sony Channel" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9138.png", Sony Channel
+https://play.lanet.tv/index/9138.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9170" tvg-name="AMC" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9170.png", AMC
+https://play.lanet.tv/index/9170.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9072" tvg-name="Paramount Channel" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9072.png", Paramount Channel
+https://play.lanet.tv/index/9072.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9188" tvg-name="Paramount Comedy" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9188.png", Paramount Comedy
+https://play.lanet.tv/index/9188.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9125" tvg-name="Filmbox" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9125.png", Filmbox
+https://play.lanet.tv/index/9125.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9063" tvg-name="Сонце" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9063.png", Сонце
+https://play.lanet.tv/index/9063.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9023" tvg-name="Enter-фільм" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9023.png", Enter-фільм
+https://play.lanet.tv/index/9023.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9133" tvg-name="Квартал TV" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9133.png", Квартал TV
+https://play.lanet.tv/index/9133.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9169" tvg-name="StarCinema" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9169.png", StarCinema
+https://play.lanet.tv/index/9169.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9105" tvg-name="StarFamily" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9105.png", StarFamily
+https://play.lanet.tv/index/9105.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9167" tvg-name="Bolt" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9167.png", Bolt
+https://play.lanet.tv/index/9167.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9180" tvg-name="FilmUA Drama" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9180.png", FilmUA Drama
+https://play.lanet.tv/index/9180.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9077" tvg-name="Zee TV" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9077.png", Zee TV
+https://play.lanet.tv/index/9077.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9219" tvg-name="FilmUA Live" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9219.png", FilmUA Live
+https://play.lanet.tv/index/9219.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9009" tvg-name="НТН" group-title="Ефір" tvg-logo="https://static.lanet.tv/tv/logo/9009.png", НТН
+https://play.lanet.tv/index/9009.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9022" tvg-name="ОЦЕ" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9022.png", ОЦЕ
+https://play.lanet.tv/index/9022.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9017" tvg-name="ПлюсПлюс" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9017.png", ПлюсПлюс
+https://play.lanet.tv/index/9017.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9088" tvg-name="Nick Junior" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9088.png", Nick Junior
+https://play.lanet.tv/index/9088.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9123" tvg-name="Nickelodeon" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9123.png", Nickelodeon
+https://play.lanet.tv/index/9123.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9098" tvg-name="Nick Toons" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9098.png", Nick Toons
+https://play.lanet.tv/index/9098.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9030" tvg-name="Піксель" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9030.png", Піксель
+https://play.lanet.tv/index/9030.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9216" tvg-name="Niki Junior" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9216.png", Niki Junior
+https://play.lanet.tv/index/9216.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9215" tvg-name="Niki Kids" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9215.png", Niki Kids
+https://play.lanet.tv/index/9215.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9052" tvg-name="Малятко TV" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9052.png", Малятко TV
+https://play.lanet.tv/index/9052.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9097" tvg-name="Lale" group-title="Дітям" tvg-logo="https://static.lanet.tv/tv/logo/9097.png", Lale
+https://play.lanet.tv/index/9097.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9054" tvg-name="History" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9054.png", History
+https://play.lanet.tv/index/9054.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9080" tvg-name="Viasat History" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9080.png", Viasat History
+https://play.lanet.tv/index/9080.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9092" tvg-name="Viasat Explore" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9092.png", Viasat Explore
+https://play.lanet.tv/index/9092.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9084" tvg-name="Viasat Nature" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9084.png", Viasat Nature
+https://play.lanet.tv/index/9084.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9135" tvg-name="Discovery Channel" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9135.png", Discovery Channel
+https://play.lanet.tv/index/9135.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9195" tvg-name="Discovery TLC" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9195.png", Discovery TLC
+https://play.lanet.tv/index/9195.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9082" tvg-name="National Geographic" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9082.png", National Geographic
+https://play.lanet.tv/index/9082.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9083" tvg-name="NatGeoWild" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9083.png", NatGeoWild
+https://play.lanet.tv/index/9083.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9122" tvg-name="Travel Channel" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9122.png", Travel Channel
+https://play.lanet.tv/index/9122.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9140" tvg-name="Fine Living" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9140.png", Fine Living
+https://play.lanet.tv/index/9140.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9095" tvg-name="FoodNetwork" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9095.png", FoodNetwork
+https://play.lanet.tv/index/9095.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9115" tvg-name="Трофей" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9115.png", Трофей
+https://play.lanet.tv/index/9115.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9141" tvg-name="Travel+Adventure" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9141.png", Travel+Adventure
+https://play.lanet.tv/index/9141.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9021" tvg-name="Мега" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9021.png", Мега
+https://play.lanet.tv/index/9021.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9206" tvg-name="NASA.TV" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9206.png", NASA.TV
+https://play.lanet.tv/index/9206.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9110" tvg-name="Eurosport 1" group-title="Спорт" tvg-logo="https://static.lanet.tv/tv/logo/9110.png", Eurosport 1
+https://play.lanet.tv/index/9110.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9132" tvg-name="Setanta Sports" group-title="Спорт" tvg-logo="https://static.lanet.tv/tv/logo/9132.png", Setanta Sports
+https://play.lanet.tv/index/9132.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9067" tvg-name="Setanta Sports +" group-title="Спорт" tvg-logo="https://static.lanet.tv/tv/logo/9067.png", Setanta Sports +
+https://play.lanet.tv/index/9067.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9056" tvg-name="XSport" group-title="Спорт" tvg-logo="https://static.lanet.tv/tv/logo/9056.png", XSport
+https://play.lanet.tv/index/9056.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9189" tvg-name="Viasat Sport" group-title="Спорт" tvg-logo="https://static.lanet.tv/tv/logo/9189.png", Viasat Sport
+https://play.lanet.tv/index/9189.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9013" tvg-name="М1" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9013.png", М1
+https://play.lanet.tv/index/9013.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9029" tvg-name="М2" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9029.png", М2
+https://play.lanet.tv/index/9029.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9028" tvg-name="Music Box UA" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9028.png", Music Box UA
+https://play.lanet.tv/index/9028.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9025" tvg-name="EU Music" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9025.png", EU Music
+https://play.lanet.tv/index/9025.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9217" tvg-name="4ever Music" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9217.png", 4ever Music
+https://play.lanet.tv/index/9217.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9146" tvg-name="MTV Hits" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9146.png", MTV Hits
+https://play.lanet.tv/index/9146.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9145" tvg-name="MTV Dance" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9145.png", MTV Dance
+https://play.lanet.tv/index/9145.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9147" tvg-name="MTV Rocks" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9147.png", MTV Rocks
+https://play.lanet.tv/index/9147.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9118" tvg-name="MTV Live HD" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9118.png", MTV Live HD
+https://play.lanet.tv/index/9118.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9148" tvg-name="VH1" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9148.png", VH1
+https://play.lanet.tv/index/9148.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9149" tvg-name="VH1 Classic" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9149.png", VH1 Classic
+https://play.lanet.tv/index/9149.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9026" tvg-name="O-TV" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9026.png", O-TV
+https://play.lanet.tv/index/9026.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9027" tvg-name="Zoom" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9027.png", Zoom
+https://play.lanet.tv/index/9027.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9208" tvg-name="Наше Music" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9208.png", Наше Music
+https://play.lanet.tv/index/9208.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9201" tvg-name="Наш" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9201.png", Наш
+https://play.lanet.tv/index/9201.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9210" tvg-name="Megogo Live" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9210.png", Megogo Live
+https://play.lanet.tv/index/9210.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9165" tvg-name="Mezzo Live" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9165.png", Mezzo Live
+https://play.lanet.tv/index/9165.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9087" tvg-name="Індиго TV" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9087.png", Індиго TV
+https://play.lanet.tv/index/9087.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9047" tvg-name="Бігуді" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9047.png", Бігуді
+https://play.lanet.tv/index/9047.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9211" tvg-name="36.6" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9211.png", 36.6
+https://play.lanet.tv/index/9211.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9187" tvg-name="Fashion One" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9187.png", Fashion One
+https://play.lanet.tv/index/9187.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9040" tvg-name="Fashion TV" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9040.png", Fashion TV
+https://play.lanet.tv/index/9040.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9050" tvg-name="КусКус" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9050.png", КусКус
+https://play.lanet.tv/index/9050.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9058" tvg-name="English Club TV" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9058.png", English Club TV
+https://play.lanet.tv/index/9058.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9068" tvg-name="Da Vinci Learning" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9068.png", Da Vinci Learning
+https://play.lanet.tv/index/9068.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1001" tvg-name="Громадське" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/1001.png", Громадське
+https://play.lanet.tv/index/1001.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9032" tvg-name="Oboz TV" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9032.png", Oboz TV
+https://play.lanet.tv/index/9032.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9037" tvg-name="Перший Діловий" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9037.png", Перший Діловий
+https://play.lanet.tv/index/9037.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9003" tvg-name="Київ" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9003.png", Київ
+https://play.lanet.tv/index/9003.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9184" tvg-name="Перший Київський" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9184.png", Перший Київський
+https://play.lanet.tv/index/9184.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1017" tvg-name="ПравдаТУТ Київ" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1017.png", ПравдаТУТ Київ
+https://play.lanet.tv/index/1017.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9196" tvg-name="ПравдаТУТ Львів" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9196.png", ПравдаТУТ Львів
+https://play.lanet.tv/index/9196.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9203" tvg-name="4 канал" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9203.png", 4 канал
+https://play.lanet.tv/index/9203.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9055" tvg-name="8 канал" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9055.png", 8 канал
+https://play.lanet.tv/index/9055.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1018" tvg-name="12 канал" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1018.png", 12 канал
+https://play.lanet.tv/index/1018.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9099" tvg-name="Перший Західний" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9099.png", Перший Західний
+https://play.lanet.tv/index/9099.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9166" tvg-name="Галичина" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9166.png", Галичина
+https://play.lanet.tv/index/9166.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9171" tvg-name="3 Студія" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9171.png", 3 Студія
+https://play.lanet.tv/index/9171.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9043" tvg-name="Глас" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9043.png", Глас
+https://play.lanet.tv/index/9043.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9085" tvg-name="Milady" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9085.png", Milady
+https://play.lanet.tv/index/9085.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9185" tvg-name="Вінтаж" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9185.png", Вінтаж
+https://play.lanet.tv/index/9185.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1022" tvg-name="Рівне 1" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1022.png", Рівне 1
+https://play.lanet.tv/index/1022.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9130" tvg-name="Телевсесвіт" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9130.png", Телевсесвіт
+https://play.lanet.tv/index/9130.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9220" tvg-name="Navigator TV" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9220.png", Navigator TV
+https://play.lanet.tv/index/9220.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1029" tvg-name="D1" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1029.png", D1
+https://play.lanet.tv/index/1029.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1026" tvg-name="Тернопіль 1" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1026.png", Тернопіль 1
+https://play.lanet.tv/index/1026.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9156" tvg-name="Bambarbia TV" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9156.png", Bambarbia TV
+https://play.lanet.tv/index/9156.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9218" tvg-name="Караван TV" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9218.png", Караван TV
+https://play.lanet.tv/index/9218.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9045" tvg-name="Еко TV" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9045.png", Еко TV
+https://play.lanet.tv/index/9045.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9059" tvg-name="Boutique TV" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9059.png", Boutique TV
+https://play.lanet.tv/index/9059.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9089" tvg-name="CNL" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9089.png", CNL
+https://play.lanet.tv/index/9089.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9153" tvg-name="Белсат ТВ" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9153.png", Белсат ТВ
+https://play.lanet.tv/index/9153.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9061" tvg-name="Канал 402" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9061.png", Канал 402
+https://play.lanet.tv/index/9061.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1021" tvg-name="Антена" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1021.png", Антена
+https://play.lanet.tv/index/1021.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9051" tvg-name="Чорноморська ТРК" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9051.png", Чорноморська ТРК
+https://play.lanet.tv/index/9051.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9129" tvg-name="Бужнет ТВ" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9129.png", Бужнет ТВ
+https://play.lanet.tv/index/9129.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1023" tvg-name="Дніпро TV" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1023.png", Дніпро TV
+https://play.lanet.tv/index/1023.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9076" tvg-name="Надія" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9076.png", Надія
+https://play.lanet.tv/index/9076.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9174" tvg-name="PAI" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9174.png", PAI
+https://play.lanet.tv/index/9174.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9173" tvg-name="Вежа" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9173.png", Вежа
+https://play.lanet.tv/index/9173.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1031" tvg-name="Travel Guide" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1031.png", Travel Guide
+https://play.lanet.tv/index/1031.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9090" tvg-name="Погляд" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9090.png", Погляд
+https://play.lanet.tv/index/9090.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9091" tvg-name="Genuine TV" group-title="Мамам" tvg-logo="https://static.lanet.tv/tv/logo/9091.png", Genuine TV
+https://play.lanet.tv/index/9091.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9086" tvg-name="NTA" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9086.png", NTA
+https://play.lanet.tv/index/9086.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9131" tvg-name="TV7+" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9131.png", TV7+
+https://play.lanet.tv/index/9131.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9106" tvg-name="ТВ-7" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9106.png", ТВ-7
+https://play.lanet.tv/index/9106.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9179" tvg-name="Dorama" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/9179.png", Dorama
+https://play.lanet.tv/index/9179.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9161" tvg-name="Україна 24" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9161.png", Україна 24
+https://play.lanet.tv/index/9161.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9116" tvg-name="Дача" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/9116.png", Дача
+https://play.lanet.tv/index/9116.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9038" tvg-name="ІРТА" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9038.png", ІРТА
+https://play.lanet.tv/index/9038.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9143" tvg-name="Сварожичі" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9143.png", Сварожичі
+https://play.lanet.tv/index/9143.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1008" tvg-name="Skrypin UA" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/1008.png", Skrypin UA
+https://play.lanet.tv/index/1008.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1030" tvg-name="ДемСокира" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/1030.png", ДемСокира
+https://play.lanet.tv/index/1030.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1028" tvg-name="Ukraїner" group-title="Пізнання" tvg-logo="https://static.lanet.tv/tv/logo/1028.png", Ukraїner
+https://play.lanet.tv/index/1028.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1016" tvg-name="Бігус.Інфо" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/1016.png", Бігус.Інфо
+https://play.lanet.tv/index/1016.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1027" tvg-name="Вечір з Яніною Соколовою" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/1027.png", Вечір з Яніною Соколовою
+https://play.lanet.tv/index/1027.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9033" tvg-name="UA: Київ" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9033.png", UA: Київ
+https://play.lanet.tv/index/9033.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9163" tvg-name="UA: Крим" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9163.png", UA: Крим
+https://play.lanet.tv/index/9163.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9190" tvg-name="UA: Дніпро" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9190.png", UA: Дніпро
+https://play.lanet.tv/index/9190.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9191" tvg-name="UA: Львів" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9191.png", UA: Львів
+https://play.lanet.tv/index/9191.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9194" tvg-name="UA: Запоріжжя" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9194.png", UA: Запоріжжя
+https://play.lanet.tv/index/9194.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9193" tvg-name="UA: Одеса" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9193.png", UA: Одеса
+https://play.lanet.tv/index/9193.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9192" tvg-name="UA: Харків" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9192.png", UA: Харків
+https://play.lanet.tv/index/9192.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9200" tvg-name="UA: Рівне" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/9200.png", UA: Рівне
+https://play.lanet.tv/index/9200.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1014" tvg-name="UA: Донбас" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1014.png", UA: Донбас
+https://play.lanet.tv/index/1014.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1012" tvg-name="UA: Житомир" group-title="Регіони" tvg-logo="https://static.lanet.tv/tv/logo/1012.png", UA: Житомир
+https://play.lanet.tv/index/1012.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="1025" tvg-name="Шулявка" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/1025.png", Шулявка
+https://play.lanet.tv/index/1025.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2004" tvg-name="Святошин" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2004.png", Святошин
+https://play.lanet.tv/index/2004.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2014" tvg-name="Біличі" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2014.png", Біличі
+https://play.lanet.tv/index/2014.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2016" tvg-name="Цирк" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2016.png", Цирк
+https://play.lanet.tv/index/2016.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2017" tvg-name="Повітрофлотський" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2017.png", Повітрофлотський
+https://play.lanet.tv/index/2017.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2019" tvg-name="Магелан" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2019.png", Магелан
+https://play.lanet.tv/index/2019.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2018" tvg-name="ЗАГС" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2018.png", ЗАГС
+https://play.lanet.tv/index/2018.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2015" tvg-name="Колібріс" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2015.png", Колібріс
+https://play.lanet.tv/index/2015.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2023" tvg-name="Воскресенка" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2023.png", Воскресенка
+https://play.lanet.tv/index/2023.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2022" tvg-name="Бальзака" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2022.png", Бальзака
+https://play.lanet.tv/index/2022.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2025" tvg-name="Басейна" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2025.png", Басейна
+https://play.lanet.tv/index/2025.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2024" tvg-name="Чернігівська" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2024.png", Чернігівська
+https://play.lanet.tv/index/2024.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2021" tvg-name="Прирічна" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2021.png", Прирічна
+https://play.lanet.tv/index/2021.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2026" tvg-name="Квітка на камені" group-title="Камери" tvg-logo="https://static.lanet.tv/tv/logo/2026.png", Квітка на камені
+https://play.lanet.tv/index/2026.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2001" tvg-name="Ланет FLIX" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/2001.png", Ланет FLIX
+https://play.lanet.tv/index/2001.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2012" tvg-name="Ланет RELAX" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/2012.png", Ланет RELAX
+https://play.lanet.tv/index/2012.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2003" tvg-name="Ланет PLAY" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/2003.png", Ланет PLAY
+https://play.lanet.tv/index/2003.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2010" tvg-name="Ланет INFO" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/2010.png", Ланет INFO
+https://play.lanet.tv/index/2010.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2008" tvg-name="Ланет LIVE" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/2008.png", Ланет LIVE
+https://play.lanet.tv/index/2008.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="2009" tvg-name="Ланет HOME" group-title="Розваги" tvg-logo="https://static.lanet.tv/tv/logo/2009.png", Ланет HOME
+https://play.lanet.tv/index/2009.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9112" tvg-name="Апостроф" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9112.png", Апостроф
+https://play.lanet.tv/index/9112.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9113" tvg-name="Mezzo" group-title="Музика" tvg-logo="https://static.lanet.tv/tv/logo/9113.png", Mezzo
+https://play.lanet.tv/index/9113.m3u8?key=T70OpR43oNuk1uel&q=max
+#EXTINF:-1 tvg-id="9114" tvg-name="Ісландія" group-title="Інфо" tvg-logo="https://static.lanet.tv/tv/logo/9114.png", Ісландія
+https://play.lanet.tv/index/9114.m3u8?key=T70OpR43oNuk1uel&q=max
